@@ -3,47 +3,46 @@
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-- [x] _[Projeto 01 - Lessons Learned]
+- [x] [Projeto 01 - Lessons Learned]
 
-- [x] _[Projeto 02 - Playground Functions]
+- [x] [Projeto 02 - Playground Functions]
 
-- [x] _[Projeto 03 - Pixel Art]
+- [x] [Projeto 03 - Pixel Art]
 
-- [x] _[Projeto 04 - Todo List]
+- [x] [Projeto 04 - Todo List]
 
-- [x] _[Projeto 05 - Color Guess]
+- [x] [Projeto 05 - Color Guess]
 
-- [x] _[Projeto 06 - Meme Generator]
+- [x] [Projeto 06 - Meme Generator]
 
-- [x] _[Projeto 07 - Mistery Letter]
+- [x] [Projeto 07 - Mistery Letter]
 
-- [x] _[Projeto 08 - Trybewarts]
+- [x] [Projeto 08 - Trybewarts]
 
-- [x] _[Projeto 09 - Javascript Testes Unitarios]
+- [x] [Projeto 09 - Javascript Testes Unitarios]
 
-- [x] _[Projeto 10 - Zoo Functions]
+- [x] [Projeto 10 - Zoo Functions]
 
-- [x] _[Projeto 11 - Shopping Cart]
-
+- [x] [Projeto 11 - Shopping Cart]
 
 ## Front End
 
 
-- [x] _[Projeto 12 - Solar System]
+- [x] [Projeto 12 - Solar System]
 
-- [x] _[Projeto 13 - Tryunfo]
+- [x] [Projeto 13 - Tryunfo]
 
-- [x] _[Projeto 14 - Trybetunes]
+- [x] [Projeto 14 - Trybetunes]
 
-- [x] _[Projeto 15 - Frontend Online Store]
+- [x] [Projeto 15 - Frontend Online Store]
 
-- [x] _[Projeto16 - Testes em React]
+- [x] [Projeto16 - Testes em React]
 
-- [x] _[Projeto17 - Trybe Wallet]
+- [x] [Projeto17 - Trybe Wallet]
 
-- [x] _[Projeto18 - Trivia Game]
+- [x] [Projeto18 - Trivia Game]
 
-- [x] _[Projeto19 - Start Wars Planet Search]
+- [x] [Projeto19 - Start Wars Planet Search]
 
 
 
