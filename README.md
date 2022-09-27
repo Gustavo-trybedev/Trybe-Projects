@@ -9,11 +9,11 @@
 
 - [x] [Pixel Art](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
 
-- [x] [Color Guess](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
+- [x] [Color Guess](https://github.com/Gustavo-trybedev/Project-Color-Guess)
 
 - [x] [Trybewarts](https://github.com/Gustavo-trybedev/Project-Trybe-Warts)
 
-- [x] [Javascript - Testes Unitarios](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
+- [x] [Javascript - Testes Unitarios](https://github.com/Gustavo-trybedev/Project-Unit-Tests)
 
 - [x] [Zoo Functions](https://github.com/Gustavo-trybedev/Project-Zoo-Functions)
 
