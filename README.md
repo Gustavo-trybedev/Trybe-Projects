@@ -11,7 +11,7 @@
 
 - [x] [Color Guess](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
 
-- [x] [Trybewarts](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
+- [x] [Trybewarts](https://github.com/Gustavo-trybedev/Project-Trybe-Warts)
 
 - [x] [Javascript - Testes Unitarios](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
 
