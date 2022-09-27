@@ -3,46 +3,39 @@
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-- [x] [Projeto 01 - Lessons Learned]
+- [x] [Lessons Learned](https://github.com/Gustavo-trybedev/Project-Lessons-Learned)
 
-- [x] [Projeto 02 - Playground Functions]
+- [x] [Playground Functions](https://github.com/Gustavo-trybedev/Project-Playgroun-Functions)
 
-- [x] [Projeto 03 - Pixel Art]
+- [x] [Pixel Art](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
 
-- [x] [Projeto 04 - Todo List]
+- [x] [Color Guess](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
 
-- [x] [Projeto 05 - Color Guess]
+- [x] [Trybewarts](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
 
-- [x] [Projeto 06 - Meme Generator]
+- [x] [Javascript - Testes Unitarios](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
 
-- [x] [Projeto 07 - Mistery Letter]
+- [x] [Zoo Functions](https://github.com/Gustavo-trybedev/Project-Zoo-Functions)
 
-- [x] [Projeto 08 - Trybewarts]
-
-- [x] [Projeto 09 - Javascript Testes Unitarios]
-
-- [x] [Projeto 10 - Zoo Functions]
-
-- [x] [Projeto 11 - Shopping Cart]
+- [x] [Shopping Cart](https://github.com/Gustavo-trybedev/Project-Shopping-Cart)
 
 ## Front End
 
+- [x] [Solar System](https://github.com/Gustavo-trybedev/Project-Solar-System)
 
-- [x] [Projeto 12 - Solar System]
+- [x] [Tryunfo](https://github.com/Gustavo-trybedev/Project-Tryunfo)
 
-- [x] [Projeto 13 - Tryunfo]
+- [x] [Trybetunes](https://github.com/Gustavo-trybedev/Project-Trybe-Tunes)
 
-- [x] [Projeto 14 - Trybetunes]
+- [x] [Frontend Online Store](https://github.com/Gustavo-trybedev/Project-Online-Store)
 
-- [x] [Projeto 15 - Frontend Online Store]
+- [x] [Testes em React](https://github.com/Gustavo-trybedev/Project-RTL)
 
-- [x] [Projeto16 - Testes em React]
+- [x] [Trybe Wallet](https://github.com/Gustavo-trybedev/Project-Trybe-Wallet)
 
-- [x] [Projeto17 - Trybe Wallet]
+- [x] [Trivia Game](https://github.com/Gustavo-trybedev/Project-Trivia-Game)
 
-- [x] [Projeto18 - Trivia Game]
-
-- [x] [Projeto19 - Start Wars Planet Search]
+- [...] [Start Wars Planet Search]
 
 
 
