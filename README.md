@@ -5,7 +5,7 @@
 
 - [x] [Lessons Learned](https://github.com/Gustavo-trybedev/Project-Lessons-Learned)
 
-- [x] [Playground Functions](https://github.com/Gustavo-trybedev/Project-Playgroun-Functions)
+- [x] [Playground Functions](https://github.com/Gustavo-trybedev/Project-Playground-Functions)
 
 - [x] [Pixel Art](https://github.com/Gustavo-trybedev/Project-Pixels-Art)
 
